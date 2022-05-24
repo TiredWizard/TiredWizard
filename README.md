@@ -1,5 +1,7 @@
 # Hi there 👋, My name is Osama
 
+I’m a student with a knack for front-end and back-end development.
+
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on A flutter app</p>
 <p>🌱 I'm currently learning react, flutter</p>
