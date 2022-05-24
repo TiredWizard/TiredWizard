@@ -36,14 +36,6 @@
 <a href="https://www.reddit.com/user/TiredoWizardo"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=TiredWizard">
-</p>
 
 ## 📊 Github Status
 
